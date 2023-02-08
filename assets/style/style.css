@@ -1,0 +1,5 @@
+/* BASIC STYLES HERE */
+.car-img {
+    height: 30vh;
+    object-fit: cover;
+}
